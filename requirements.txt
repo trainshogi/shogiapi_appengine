@@ -1,0 +1,9 @@
+requests
+opencv-python==4.0.1
+grpc
+numpy
+tensorflow
+tensorflow-serving-api
+Pillow
+Flask
+Flask-Cors
